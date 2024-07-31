@@ -5,3 +5,9 @@ App Preview :
 
 ![Screenshot_20240731-071940](https://github.com/user-attachments/assets/8c144de5-f029-4be2-aef5-c652520b31bc)
 ![image](https://github.com/user-attachments/assets/4f542e6d-2fe7-4530-b4a6-66bae9df0d10)
+
+
+
+#Model Specifics
+
+As mentioned above the model was trained using the [Celebrity-DF dataset](https://github.com/yuezunli/celeb-deepfakeforensics) . Training data was split into 600 fake and real videos each . Every video was preprocessed, meaning that zoomed in faces were cropped out and saved which were then used in training the model.
