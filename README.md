@@ -4,3 +4,4 @@
 App Preview : 
 
 ![Screenshot_20240731-071940](https://github.com/user-attachments/assets/8c144de5-f029-4be2-aef5-c652520b31bc)
+![image](https://github.com/user-attachments/assets/4f542e6d-2fe7-4530-b4a6-66bae9df0d10)
